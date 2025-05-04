@@ -15,7 +15,7 @@ This project explores a bio-inspired method for encoding memory-like data using 
 `bash
 python main.py`
 
-Requirements
+## Requirements
 Install dependencies:
 
 `bash
