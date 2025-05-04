@@ -19,8 +19,6 @@ Requirements
 Install dependencies:
 
 bash
-Copy
-Edit
 pip install -r requirements.txt
 File Overview
 main.py: Entry point to run experiments
