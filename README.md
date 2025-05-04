@@ -12,7 +12,7 @@ This project explores a bio-inspired method for encoding memory-like data using 
 
 ## How to Run
 
-bash
+''bash
 python main.py
 
 Requirements
