@@ -12,14 +12,14 @@ This project explores a bio-inspired method for encoding memory-like data using 
 
 ## How to Run
 
-''bash
-python main.py
+`bash
+python main.py`
 
 Requirements
 Install dependencies:
 
-bash
-pip install -r requirements.txt
+`bash
+pip install -r requirements.txt`
 File Overview
 main.py: Entry point to run experiments
 
